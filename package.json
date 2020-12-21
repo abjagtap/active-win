@@ -61,7 +61,7 @@
 	"optionalDependencies": {
 		"ffi-napi": "^2.4.5",
 		"ref-napi": "^3.0.0",
-		"ref-wchar-napi": "^1.0.2",
-		"ref-struct-napi": "^1.1.0"
+		"ref-struct-napi": "^1.1.0",
+		"ref-wchar-napi": "git+https://github.com/abjagtap/ref-wchar-napi.git"
 	}
 }
